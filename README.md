@@ -2,7 +2,9 @@
 Here’s what the Guess the Number program looks like to the player when
 it’s run. The player’s input is marked in bold.
 Hello! What is your name?
+
 **Albert**
+
 Well, Albert, I am thinking of a number between 1 and 20.
 Take a guess.
 **10**
